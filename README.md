@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/CaseyBuilds/osticket-prereqs)
   
 - <b>Microsoft Azure</b>
-  - [Configuring A Virtual Machine](https://github.com/CaseyBuilds/configure-VM/blob/main/README.md)
+  - [Configuring A Virtual Machine](https://github.com/CaseyBuilds/configure-VM/tree/main)
   
 
 
