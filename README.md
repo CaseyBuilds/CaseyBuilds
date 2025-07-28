@@ -1,4 +1,4 @@
-<h1>Hi, I'm James Reeves, an <a href="https://www.linkedin.com/in/casey-gbeve-b292311b5/">IT Technician</a>☺</h1>
+<h1>Hi, I'm Casey Gbeve, an <a href="https://www.linkedin.com/in/casey-gbeve-b292311b5/">IT Technician</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
