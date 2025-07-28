@@ -12,7 +12,6 @@
 
 
 
-
 [<img align="left" alt="Casey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[Linkedin]: "https://www.linkedin.com/in/casey-gbeve-b292311b5/"
+[linkedin]: https://www.linkedin.com/in/casey-gbeve-b292311b5/
